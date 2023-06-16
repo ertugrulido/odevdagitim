@@ -1,0 +1,193 @@
+C:\Users\akocerhp\Desktop\uyg04\uyg04\bin\roslyn\csc.exe
+C:\Users\akocerhp\Desktop\uyg04\uyg04\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\akocerhp\Desktop\uyg04\uyg04\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\akocerhp\Desktop\uyg04\uyg04\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\akocerhp\Desktop\uyg04\uyg04\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\akocerhp\Desktop\uyg04\uyg04\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\akocerhp\Desktop\uyg04\uyg04\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\akocerhp\Desktop\uyg04\uyg04\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\akocerhp\Desktop\uyg04\uyg04\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\akocerhp\Desktop\uyg04\uyg04\bin\roslyn\vbc.exe
+C:\Users\akocerhp\Desktop\uyg04\uyg04\bin\roslyn\VBCSCompiler.exe
+C:\Users\akocerhp\Desktop\uyg04\uyg04\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\akocerhp\Desktop\uyg04\uyg04\bin\uyg04.dll.config
+C:\Users\akocerhp\Desktop\uyg04\uyg04\bin\uyg04.dll
+C:\Users\akocerhp\Desktop\uyg04\uyg04\bin\uyg04.pdb
+C:\Users\akocerhp\Desktop\uyg04\uyg04\bin\EntityFramework.dll
+C:\Users\akocerhp\Desktop\uyg04\uyg04\bin\EntityFramework.SqlServer.dll
+C:\Users\akocerhp\Desktop\uyg04\uyg04\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\akocerhp\Desktop\uyg04\uyg04\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\akocerhp\Desktop\uyg04\uyg04\bin\Newtonsoft.Json.dll
+C:\Users\akocerhp\Desktop\uyg04\uyg04\bin\Swashbuckle.Core.dll
+C:\Users\akocerhp\Desktop\uyg04\uyg04\bin\System.Net.Http.Formatting.dll
+C:\Users\akocerhp\Desktop\uyg04\uyg04\bin\System.Web.Http.dll
+C:\Users\akocerhp\Desktop\uyg04\uyg04\bin\System.Web.Http.WebHost.dll
+C:\Users\akocerhp\Desktop\uyg04\uyg04\bin\WebActivatorEx.dll
+C:\Users\akocerhp\Desktop\uyg04\uyg04\bin\EntityFramework.xml
+C:\Users\akocerhp\Desktop\uyg04\uyg04\bin\EntityFramework.SqlServer.xml
+C:\Users\akocerhp\Desktop\uyg04\uyg04\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\akocerhp\Desktop\uyg04\uyg04\bin\Newtonsoft.Json.xml
+C:\Users\akocerhp\Desktop\uyg04\uyg04\bin\System.Net.Http.Formatting.xml
+C:\Users\akocerhp\Desktop\uyg04\uyg04\bin\System.Web.Http.xml
+C:\Users\akocerhp\Desktop\uyg04\uyg04\bin\System.Web.Http.WebHost.xml
+C:\Users\akocerhp\Desktop\uyg04\uyg04\obj\Debug\uyg04.csprojResolveAssemblyReference.cache
+C:\Users\akocerhp\Desktop\uyg04\uyg04\obj\Debug\uyg04.dll
+C:\Users\akocerhp\Desktop\uyg04\uyg04\obj\Debug\uyg04.pdb
+D:\TBMYO\Internet2\1129\uyg04\uyg04\bin\roslyn\csc.exe
+D:\TBMYO\Internet2\1129\uyg04\uyg04\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\TBMYO\Internet2\1129\uyg04\uyg04\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\TBMYO\Internet2\1129\uyg04\uyg04\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\TBMYO\Internet2\1129\uyg04\uyg04\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\TBMYO\Internet2\1129\uyg04\uyg04\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\TBMYO\Internet2\1129\uyg04\uyg04\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\TBMYO\Internet2\1129\uyg04\uyg04\bin\roslyn\System.Collections.Immutable.dll
+D:\TBMYO\Internet2\1129\uyg04\uyg04\bin\roslyn\System.Reflection.Metadata.dll
+D:\TBMYO\Internet2\1129\uyg04\uyg04\bin\roslyn\vbc.exe
+D:\TBMYO\Internet2\1129\uyg04\uyg04\bin\roslyn\VBCSCompiler.exe
+D:\TBMYO\Internet2\1129\uyg04\uyg04\bin\roslyn\VBCSCompiler.exe.config
+D:\TBMYO\Internet2\1129\uyg04\uyg04\bin\uyg04.dll.config
+D:\TBMYO\Internet2\1129\uyg04\uyg04\bin\uyg04.dll
+D:\TBMYO\Internet2\1129\uyg04\uyg04\bin\uyg04.pdb
+D:\TBMYO\Internet2\1129\uyg04\uyg04\bin\EntityFramework.dll
+D:\TBMYO\Internet2\1129\uyg04\uyg04\bin\EntityFramework.SqlServer.dll
+D:\TBMYO\Internet2\1129\uyg04\uyg04\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\TBMYO\Internet2\1129\uyg04\uyg04\bin\Microsoft.Web.Infrastructure.dll
+D:\TBMYO\Internet2\1129\uyg04\uyg04\bin\Newtonsoft.Json.dll
+D:\TBMYO\Internet2\1129\uyg04\uyg04\bin\Swashbuckle.Core.dll
+D:\TBMYO\Internet2\1129\uyg04\uyg04\bin\System.Net.Http.Formatting.dll
+D:\TBMYO\Internet2\1129\uyg04\uyg04\bin\System.Web.Http.dll
+D:\TBMYO\Internet2\1129\uyg04\uyg04\bin\System.Web.Http.WebHost.dll
+D:\TBMYO\Internet2\1129\uyg04\uyg04\bin\WebActivatorEx.dll
+D:\TBMYO\Internet2\1129\uyg04\uyg04\bin\EntityFramework.xml
+D:\TBMYO\Internet2\1129\uyg04\uyg04\bin\EntityFramework.SqlServer.xml
+D:\TBMYO\Internet2\1129\uyg04\uyg04\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\TBMYO\Internet2\1129\uyg04\uyg04\bin\Newtonsoft.Json.xml
+D:\TBMYO\Internet2\1129\uyg04\uyg04\bin\System.Net.Http.Formatting.xml
+D:\TBMYO\Internet2\1129\uyg04\uyg04\bin\System.Web.Http.xml
+D:\TBMYO\Internet2\1129\uyg04\uyg04\bin\System.Web.Http.WebHost.xml
+D:\TBMYO\Internet2\1129\uyg04\uyg04\obj\Debug\uyg04.csprojResolveAssemblyReference.cache
+D:\TBMYO\Internet2\1129\uyg04\uyg04\obj\Debug\uyg04.dll
+D:\TBMYO\Internet2\1129\uyg04\uyg04\obj\Debug\uyg04.pdb
+D:\TBMYO\Internet2\1129\uyg04\uyg04\bin\System.Web.Cors.dll
+D:\TBMYO\Internet2\1129\uyg04\uyg04\bin\System.Web.Http.Cors.dll
+D:\TBMYO\Internet2\1129\uyg04\uyg04\bin\System.Web.Http.Cors.xml
+C:\Users\bbake\Desktop\uyg04\uyg04\bin\roslyn\csc.exe
+C:\Users\bbake\Desktop\uyg04\uyg04\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\bbake\Desktop\uyg04\uyg04\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\bbake\Desktop\uyg04\uyg04\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\bbake\Desktop\uyg04\uyg04\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\bbake\Desktop\uyg04\uyg04\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\bbake\Desktop\uyg04\uyg04\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\bbake\Desktop\uyg04\uyg04\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\bbake\Desktop\uyg04\uyg04\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\bbake\Desktop\uyg04\uyg04\bin\roslyn\vbc.exe
+C:\Users\bbake\Desktop\uyg04\uyg04\bin\roslyn\VBCSCompiler.exe
+C:\Users\bbake\Desktop\uyg04\uyg04\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\bbake\Desktop\uyg04\uyg04\bin\uyg04.dll.config
+C:\Users\bbake\Desktop\uyg04\uyg04\bin\uyg04.dll
+C:\Users\bbake\Desktop\uyg04\uyg04\bin\uyg04.pdb
+C:\Users\bbake\Desktop\uyg04\uyg04\bin\EntityFramework.dll
+C:\Users\bbake\Desktop\uyg04\uyg04\bin\EntityFramework.SqlServer.dll
+C:\Users\bbake\Desktop\uyg04\uyg04\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\bbake\Desktop\uyg04\uyg04\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\bbake\Desktop\uyg04\uyg04\bin\Newtonsoft.Json.dll
+C:\Users\bbake\Desktop\uyg04\uyg04\bin\Swashbuckle.Core.dll
+C:\Users\bbake\Desktop\uyg04\uyg04\bin\System.Net.Http.Formatting.dll
+C:\Users\bbake\Desktop\uyg04\uyg04\bin\System.Web.Cors.dll
+C:\Users\bbake\Desktop\uyg04\uyg04\bin\System.Web.Http.Cors.dll
+C:\Users\bbake\Desktop\uyg04\uyg04\bin\System.Web.Http.dll
+C:\Users\bbake\Desktop\uyg04\uyg04\bin\System.Web.Http.WebHost.dll
+C:\Users\bbake\Desktop\uyg04\uyg04\bin\WebActivatorEx.dll
+C:\Users\bbake\Desktop\uyg04\uyg04\bin\EntityFramework.xml
+C:\Users\bbake\Desktop\uyg04\uyg04\bin\EntityFramework.SqlServer.xml
+C:\Users\bbake\Desktop\uyg04\uyg04\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\bbake\Desktop\uyg04\uyg04\bin\Newtonsoft.Json.xml
+C:\Users\bbake\Desktop\uyg04\uyg04\bin\System.Net.Http.Formatting.xml
+C:\Users\bbake\Desktop\uyg04\uyg04\bin\System.Web.Http.xml
+C:\Users\bbake\Desktop\uyg04\uyg04\bin\System.Web.Http.Cors.xml
+C:\Users\bbake\Desktop\uyg04\uyg04\bin\System.Web.Http.WebHost.xml
+C:\Users\bbake\Desktop\uyg04\uyg04\obj\Debug\uyg04.csproj.AssemblyReference.cache
+C:\Users\bbake\Desktop\uyg04\uyg04\obj\Debug\uyg04.csproj.CoreCompileInputs.cache
+C:\Users\bbake\Desktop\uyg04\uyg04\obj\Debug\uyg04.csproj.CopyComplete
+C:\Users\bbake\Desktop\uyg04\uyg04\obj\Debug\uyg04.dll
+C:\Users\bbake\Desktop\uyg04\uyg04\obj\Debug\uyg04.pdb
+C:\Users\beşiktaş\Desktop\Final_OdevDagitimPortali-main\odevDagitimPortali-Api\uyg04\bin\roslyn\csc.exe
+C:\Users\beşiktaş\Desktop\Final_OdevDagitimPortali-main\odevDagitimPortali-Api\uyg04\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\beşiktaş\Desktop\Final_OdevDagitimPortali-main\odevDagitimPortali-Api\uyg04\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\beşiktaş\Desktop\Final_OdevDagitimPortali-main\odevDagitimPortali-Api\uyg04\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\beşiktaş\Desktop\Final_OdevDagitimPortali-main\odevDagitimPortali-Api\uyg04\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\beşiktaş\Desktop\Final_OdevDagitimPortali-main\odevDagitimPortali-Api\uyg04\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\beşiktaş\Desktop\Final_OdevDagitimPortali-main\odevDagitimPortali-Api\uyg04\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\beşiktaş\Desktop\Final_OdevDagitimPortali-main\odevDagitimPortali-Api\uyg04\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\beşiktaş\Desktop\Final_OdevDagitimPortali-main\odevDagitimPortali-Api\uyg04\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\beşiktaş\Desktop\Final_OdevDagitimPortali-main\odevDagitimPortali-Api\uyg04\bin\roslyn\vbc.exe
+C:\Users\beşiktaş\Desktop\Final_OdevDagitimPortali-main\odevDagitimPortali-Api\uyg04\bin\roslyn\VBCSCompiler.exe
+C:\Users\beşiktaş\Desktop\Final_OdevDagitimPortali-main\odevDagitimPortali-Api\uyg04\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\beşiktaş\Desktop\Final_OdevDagitimPortali-main\odevDagitimPortali-Api\uyg04\bin\uyg04.dll.config
+C:\Users\beşiktaş\Desktop\Final_OdevDagitimPortali-main\odevDagitimPortali-Api\uyg04\bin\uyg04.dll
+C:\Users\beşiktaş\Desktop\Final_OdevDagitimPortali-main\odevDagitimPortali-Api\uyg04\bin\uyg04.pdb
+C:\Users\beşiktaş\Desktop\Final_OdevDagitimPortali-main\odevDagitimPortali-Api\uyg04\bin\EntityFramework.dll
+C:\Users\beşiktaş\Desktop\Final_OdevDagitimPortali-main\odevDagitimPortali-Api\uyg04\bin\EntityFramework.SqlServer.dll
+C:\Users\beşiktaş\Desktop\Final_OdevDagitimPortali-main\odevDagitimPortali-Api\uyg04\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\beşiktaş\Desktop\Final_OdevDagitimPortali-main\odevDagitimPortali-Api\uyg04\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\beşiktaş\Desktop\Final_OdevDagitimPortali-main\odevDagitimPortali-Api\uyg04\bin\Newtonsoft.Json.dll
+C:\Users\beşiktaş\Desktop\Final_OdevDagitimPortali-main\odevDagitimPortali-Api\uyg04\bin\Swashbuckle.Core.dll
+C:\Users\beşiktaş\Desktop\Final_OdevDagitimPortali-main\odevDagitimPortali-Api\uyg04\bin\System.Net.Http.Formatting.dll
+C:\Users\beşiktaş\Desktop\Final_OdevDagitimPortali-main\odevDagitimPortali-Api\uyg04\bin\System.Web.Cors.dll
+C:\Users\beşiktaş\Desktop\Final_OdevDagitimPortali-main\odevDagitimPortali-Api\uyg04\bin\System.Web.Http.Cors.dll
+C:\Users\beşiktaş\Desktop\Final_OdevDagitimPortali-main\odevDagitimPortali-Api\uyg04\bin\System.Web.Http.dll
+C:\Users\beşiktaş\Desktop\Final_OdevDagitimPortali-main\odevDagitimPortali-Api\uyg04\bin\System.Web.Http.WebHost.dll
+C:\Users\beşiktaş\Desktop\Final_OdevDagitimPortali-main\odevDagitimPortali-Api\uyg04\bin\WebActivatorEx.dll
+C:\Users\beşiktaş\Desktop\Final_OdevDagitimPortali-main\odevDagitimPortali-Api\uyg04\bin\EntityFramework.xml
+C:\Users\beşiktaş\Desktop\Final_OdevDagitimPortali-main\odevDagitimPortali-Api\uyg04\bin\EntityFramework.SqlServer.xml
+C:\Users\beşiktaş\Desktop\Final_OdevDagitimPortali-main\odevDagitimPortali-Api\uyg04\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\beşiktaş\Desktop\Final_OdevDagitimPortali-main\odevDagitimPortali-Api\uyg04\bin\Newtonsoft.Json.xml
+C:\Users\beşiktaş\Desktop\Final_OdevDagitimPortali-main\odevDagitimPortali-Api\uyg04\bin\System.Net.Http.Formatting.xml
+C:\Users\beşiktaş\Desktop\Final_OdevDagitimPortali-main\odevDagitimPortali-Api\uyg04\bin\System.Web.Http.xml
+C:\Users\beşiktaş\Desktop\Final_OdevDagitimPortali-main\odevDagitimPortali-Api\uyg04\bin\System.Web.Http.Cors.xml
+C:\Users\beşiktaş\Desktop\Final_OdevDagitimPortali-main\odevDagitimPortali-Api\uyg04\bin\System.Web.Http.WebHost.xml
+C:\Users\beşiktaş\Desktop\Final_OdevDagitimPortali-main\odevDagitimPortali-Api\uyg04\obj\Debug\uyg04.csproj.AssemblyReference.cache
+C:\Users\beşiktaş\Desktop\Final_OdevDagitimPortali-main\odevDagitimPortali-Api\uyg04\obj\Debug\uyg04.csproj.CoreCompileInputs.cache
+C:\Users\beşiktaş\Desktop\Final_OdevDagitimPortali-main\odevDagitimPortali-Api\uyg04\obj\Debug\uyg04.csproj.CopyComplete
+C:\Users\beşiktaş\Desktop\Final_OdevDagitimPortali-main\odevDagitimPortali-Api\uyg04\obj\Debug\uyg04.dll
+C:\Users\beşiktaş\Desktop\Final_OdevDagitimPortali-main\odevDagitimPortali-Api\uyg04\obj\Debug\uyg04.pdb
+C:\Users\beşiktaş\Desktop\odevdagıtımfinal - Kopya\odevdagitim-Api\uyg04\bin\roslyn\csc.exe
+C:\Users\beşiktaş\Desktop\odevdagıtımfinal - Kopya\odevdagitim-Api\uyg04\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\beşiktaş\Desktop\odevdagıtımfinal - Kopya\odevdagitim-Api\uyg04\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\beşiktaş\Desktop\odevdagıtımfinal - Kopya\odevdagitim-Api\uyg04\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\beşiktaş\Desktop\odevdagıtımfinal - Kopya\odevdagitim-Api\uyg04\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\beşiktaş\Desktop\odevdagıtımfinal - Kopya\odevdagitim-Api\uyg04\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\beşiktaş\Desktop\odevdagıtımfinal - Kopya\odevdagitim-Api\uyg04\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\beşiktaş\Desktop\odevdagıtımfinal - Kopya\odevdagitim-Api\uyg04\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\beşiktaş\Desktop\odevdagıtımfinal - Kopya\odevdagitim-Api\uyg04\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\beşiktaş\Desktop\odevdagıtımfinal - Kopya\odevdagitim-Api\uyg04\bin\roslyn\vbc.exe
+C:\Users\beşiktaş\Desktop\odevdagıtımfinal - Kopya\odevdagitim-Api\uyg04\bin\roslyn\VBCSCompiler.exe
+C:\Users\beşiktaş\Desktop\odevdagıtımfinal - Kopya\odevdagitim-Api\uyg04\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\beşiktaş\Desktop\odevdagıtımfinal - Kopya\odevdagitim-Api\uyg04\bin\uyg04.dll.config
+C:\Users\beşiktaş\Desktop\odevdagıtımfinal - Kopya\odevdagitim-Api\uyg04\bin\uyg04.dll
+C:\Users\beşiktaş\Desktop\odevdagıtımfinal - Kopya\odevdagitim-Api\uyg04\bin\uyg04.pdb
+C:\Users\beşiktaş\Desktop\odevdagıtımfinal - Kopya\odevdagitim-Api\uyg04\bin\EntityFramework.dll
+C:\Users\beşiktaş\Desktop\odevdagıtımfinal - Kopya\odevdagitim-Api\uyg04\bin\EntityFramework.SqlServer.dll
+C:\Users\beşiktaş\Desktop\odevdagıtımfinal - Kopya\odevdagitim-Api\uyg04\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\beşiktaş\Desktop\odevdagıtımfinal - Kopya\odevdagitim-Api\uyg04\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\beşiktaş\Desktop\odevdagıtımfinal - Kopya\odevdagitim-Api\uyg04\bin\Newtonsoft.Json.dll
+C:\Users\beşiktaş\Desktop\odevdagıtımfinal - Kopya\odevdagitim-Api\uyg04\bin\Swashbuckle.Core.dll
+C:\Users\beşiktaş\Desktop\odevdagıtımfinal - Kopya\odevdagitim-Api\uyg04\bin\System.Net.Http.Formatting.dll
+C:\Users\beşiktaş\Desktop\odevdagıtımfinal - Kopya\odevdagitim-Api\uyg04\bin\System.Web.Cors.dll
+C:\Users\beşiktaş\Desktop\odevdagıtımfinal - Kopya\odevdagitim-Api\uyg04\bin\System.Web.Http.Cors.dll
+C:\Users\beşiktaş\Desktop\odevdagıtımfinal - Kopya\odevdagitim-Api\uyg04\bin\System.Web.Http.dll
+C:\Users\beşiktaş\Desktop\odevdagıtımfinal - Kopya\odevdagitim-Api\uyg04\bin\System.Web.Http.WebHost.dll
+C:\Users\beşiktaş\Desktop\odevdagıtımfinal - Kopya\odevdagitim-Api\uyg04\bin\WebActivatorEx.dll
+C:\Users\beşiktaş\Desktop\odevdagıtımfinal - Kopya\odevdagitim-Api\uyg04\bin\EntityFramework.xml
+C:\Users\beşiktaş\Desktop\odevdagıtımfinal - Kopya\odevdagitim-Api\uyg04\bin\EntityFramework.SqlServer.xml
+C:\Users\beşiktaş\Desktop\odevdagıtımfinal - Kopya\odevdagitim-Api\uyg04\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\beşiktaş\Desktop\odevdagıtımfinal - Kopya\odevdagitim-Api\uyg04\bin\Newtonsoft.Json.xml
+C:\Users\beşiktaş\Desktop\odevdagıtımfinal - Kopya\odevdagitim-Api\uyg04\bin\System.Net.Http.Formatting.xml
+C:\Users\beşiktaş\Desktop\odevdagıtımfinal - Kopya\odevdagitim-Api\uyg04\bin\System.Web.Http.xml
+C:\Users\beşiktaş\Desktop\odevdagıtımfinal - Kopya\odevdagitim-Api\uyg04\bin\System.Web.Http.Cors.xml
+C:\Users\beşiktaş\Desktop\odevdagıtımfinal - Kopya\odevdagitim-Api\uyg04\bin\System.Web.Http.WebHost.xml
+C:\Users\beşiktaş\Desktop\odevdagıtımfinal - Kopya\odevdagitim-Api\uyg04\obj\Debug\uyg04.csproj.AssemblyReference.cache
+C:\Users\beşiktaş\Desktop\odevdagıtımfinal - Kopya\odevdagitim-Api\uyg04\obj\Debug\uyg04.csproj.CoreCompileInputs.cache
+C:\Users\beşiktaş\Desktop\odevdagıtımfinal - Kopya\odevdagitim-Api\uyg04\obj\Debug\uyg04.csproj.CopyComplete
+C:\Users\beşiktaş\Desktop\odevdagıtımfinal - Kopya\odevdagitim-Api\uyg04\obj\Debug\uyg04.dll
+C:\Users\beşiktaş\Desktop\odevdagıtımfinal - Kopya\odevdagitim-Api\uyg04\obj\Debug\uyg04.pdb

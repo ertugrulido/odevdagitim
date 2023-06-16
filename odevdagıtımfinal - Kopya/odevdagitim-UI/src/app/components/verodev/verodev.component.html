@@ -1,0 +1,35 @@
+
+<h1 style="color:rgb(31, 216, 233)">Lütfen ödev seçiniz</h1>
+<hr>
+
+<mat-selection-list #shoes>
+  <mat-list-option *ngFor="let shoe of dersler" (click) = "odevGetir(shoe.dersAdi)">
+    | {{shoe.dersKodu}} | ------------------------- | {{shoe.dersAdi}} |
+  </mat-list-option>
+</mat-selection-list>
+
+<p>
+  Seçilen Ödev(ler): {{shoes.selectedOptions.selected.length}}
+</p>
+
+<hr>
+<br>
+<br>
+<h1 style="color:rgb(31, 216, 233)">Lütfen öğrenci seçiniz</h1>
+<hr>
+
+<mat-selection-list #shoes1>
+  <mat-list-option *ngFor="let shoe of kayitlar" (click) = "ogrGetir(shoe.ogrAdsoyad)">
+     {{shoe.ogrNo}}  ------------------------- | {{shoe.ogrAdsoyad}} |
+  </mat-list-option>
+</mat-selection-list>
+
+<p>
+  Seçilen Öğrenci(ler): {{shoes1.selectedOptions.selected.length}}
+</p>
+<hr>
+<section>
+  <div class="example-button-row">
+    <button mat-raised-button color="accent" (click)="openDialog()">Onayla</button>
+  </div>
+</section>
